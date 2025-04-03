@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://cri15zan.github.io/websitelucri/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://lucriphart.it/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://cri15zan.github.io/websitelucri/</loc>
+<loc>https://lucriphart.it/</loc>
 </url>
 <url>
-<loc>https://cri15zan.github.io/websitelucri/eventi.html</loc>
+<loc>https://lucriphart.it/eventi.html</loc>
 <lastmod>2025-04-03T21:43:31+02:00</lastmod>
 <image:image>
-<image:loc>https://cri15zan.github.io/websitelucri/media/posts/1/gallery/001-thumbnail.jpg</image:loc>
+<image:loc>https://lucriphart.it/media/posts/1/gallery/001-thumbnail.jpg</image:loc>
 <image:title><![CDATA[biblioteca ]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://cri15zan.github.io/websitelucri/home.html</loc>
+<loc>https://lucriphart.it/home.html</loc>
 <lastmod>2025-04-03T21:47:13+02:00</lastmod>
 <image:image>
-<image:loc>https://cri15zan.github.io/websitelucri/media/posts/2/gallery/002-thumbnail.jpg</image:loc>
+<image:loc>https://lucriphart.it/media/posts/2/gallery/002-thumbnail.jpg</image:loc>
 <image:title><![CDATA[fefì25]]></image:title>
 </image:image>
 </url>

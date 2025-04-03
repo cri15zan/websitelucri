@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>lucriphart</title>
-    <link href="https://cri15zan.github.io/websitelucri/feed.xml" rel="self" />
-    <link href="https://cri15zan.github.io/websitelucri" />
+    <link href="https://lucriphart.it/feed.xml" rel="self" />
+    <link href="https://lucriphart.it" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>LCCZ</name>
     </author>
-    <id>https://cri15zan.github.io/websitelucri</id>
+    <id>https://lucriphart.it</id>
 
 </feed>
