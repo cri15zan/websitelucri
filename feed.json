@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "lucriphart",
+    "description": "",
+    "home_page_url": "https://cri15zan.github.io/websitelucri",
+    "feed_url": "https://cri15zan.github.io/websitelucri/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "LCCZ"
+    },
+    "items": [
+    ]
+}

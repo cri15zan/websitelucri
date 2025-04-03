@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cri15zan.github.io/websitelucri/sitemap.xml
